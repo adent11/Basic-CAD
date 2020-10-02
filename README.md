@@ -1,4 +1,4 @@
-# BasicCAD
+# Basic CAD
 
 We are creating a caster.
 
