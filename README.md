@@ -23,7 +23,7 @@ In this assignment I created the base to the caster. It is a rectangular prism t
 
 ### Image
 
-<img src="images/Base.jpg" alt="The Base" width="200">
+<img src="Images/Base.PNG" alt="The Base" width="200">
 
 ### Reflection
 
