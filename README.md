@@ -23,7 +23,7 @@ In this assignment I created the base to the caster. It is a rectangular prism t
 
 ### Image
 
-<img src="Images/Base.PNG" alt="The Base" width="200">
+<img src="Images/Base.PNG" alt="The Base" height="150">
 
 ### Reflection
 
@@ -47,9 +47,11 @@ In this assignment I created the mount part of the caster. It is a 120 mm square
 
 ### Image
 
-<img src="Images/Mount.PNG" alt="The Mount" width="200">
+<img src="Images/Mount.png" alt="The Mount" height="150">
 
 ### Reflection
+
+This assignment also wasn't a challenge, but one thing I learned in the tutorial video was how make multiple parts in the same part studio by selecting "New" instead of "Add" when you extrude.
 
 ---
 
