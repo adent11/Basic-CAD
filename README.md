@@ -60,13 +60,19 @@ This assignment also wasn't a challenge, but one thing I learned in the tutorial
 
 ### Description
 
+In this assignment I designed the fork that attaches the axle to the base of the caster. It has a circular base with two prongs, with holes for the axle, and a cylinder on the top that attaches to the base.
+
 ### Evidence
+
+[Fork in Onshape](https://cvilleschools.onshape.com/documents/f7ea84346f453cdc483ecf33/w/3f3de681c1975644dbaf9af1/e/311adde7d379ff01d171e869)
 
 ### Image
 
 <img src="Images/Fork.png" alt="The Fork" height="150">
 
 ### Reflection
+
+One thing that I learned is that you can select tangent propogation when doing a fillet to automatically select all edges tangent to the one you select; also the shortcut for a fillet is Shift + F.
 
 ---
 
@@ -77,7 +83,11 @@ This assignment also wasn't a challenge, but one thing I learned in the tutorial
 
 ### Evidence
 
+[]()
+
 ### Image
+
+<img src="Images/.png" alt="" height="150">
 
 ### Reflection
 
@@ -90,7 +100,11 @@ This assignment also wasn't a challenge, but one thing I learned in the tutorial
 
 ### Evidence
 
+[]()
+
 ### Image
+
+<img src="Images/.png" alt="" height="150">
 
 ### Reflection
 
@@ -103,7 +117,11 @@ This assignment also wasn't a challenge, but one thing I learned in the tutorial
 
 ### Evidence
 
+[]()
+
 ### Image
+
+<img src="Images/.png" alt="" height="150">
 
 ### Reflection
 
