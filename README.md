@@ -10,7 +10,7 @@ We are creating a caster.
 * [Fork](#Fork)
 * [Tire](#Tire)
 * [Wheel](#Wheel)
-* [Axle, Collar, Bearings](#Axle, Collar, Bearings)
+* [Axle, Collar, Bearings](#Axle,-Collar,-Bearings)
 
 ## Base
 
@@ -81,6 +81,8 @@ One thing that I learned is that you can select tangent propogation when doing a
 
 ### Description
 
+In this assignmentI designed the tire of the caster. It is a trapezoid revolved around the origin to make the wheel, with fillets on both sides to round the edges.
+
 ### Evidence
 
 [Tire in Onshape](https://cvilleschools.onshape.com/documents/f7ea84346f453cdc483ecf33/w/3f3de681c1975644dbaf9af1/e/4638a4e0a262051462ff2519)
@@ -90,6 +92,8 @@ One thing that I learned is that you can select tangent propogation when doing a
 <img src="Images/Tire.png" alt="" height="150">
 
 ### Reflection
+
+Something useful that I learned is that if you place a dimension between a centerline and another line past the centerline, it doubles, making it convenient for making diameter.
 
 ---
 
