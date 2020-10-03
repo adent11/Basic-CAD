@@ -64,6 +64,8 @@ This assignment also wasn't a challenge, but one thing I learned in the tutorial
 
 ### Image
 
+<img src="Images/Fork.png" alt="The Fork" height="150">
+
 ### Reflection
 
 ---
