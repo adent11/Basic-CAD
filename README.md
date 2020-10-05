@@ -125,7 +125,8 @@ One thing that I learned in this assignment is that when you are doing a fillet 
 
 ### Evidence
 
-[]()
+[Axle and Collar in Onshape](https://cvilleschools.onshape.com/documents/f7ea84346f453cdc483ecf33/w/3f3de681c1975644dbaf9af1/e/20dcd05ba3e4f98628545047)
+[Bearing](https://cvilleschools.onshape.com/documents/f7ea84346f453cdc483ecf33/w/3f3de681c1975644dbaf9af1/e/83922fdb04da7216fde9ab66)
 
 ### Image
 
