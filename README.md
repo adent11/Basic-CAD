@@ -125,11 +125,14 @@ One thing that I learned in this assignment is that when you are doing a fillet 
 
 ### Evidence
 
-[Axle and Collar in Onshape](https://cvilleschools.onshape.com/documents/f7ea84346f453cdc483ecf33/w/3f3de681c1975644dbaf9af1/e/20dcd05ba3e4f98628545047)
-[Bearing](https://cvilleschools.onshape.com/documents/f7ea84346f453cdc483ecf33/w/3f3de681c1975644dbaf9af1/e/83922fdb04da7216fde9ab66)
+[Axle and Collar in Onshape](https://cvilleschools.onshape.com/documents/f7ea84346f453cdc483ecf33/w/3f3de681c1975644dbaf9af1/e/20dcd05ba3e4f98628545047) <br/>
+[Bearing](https://cvilleschools.onshape.com/documents/f7ea84346f453cdc483ecf33/w/3f3de681c1975644dbaf9af1/e/83922fdb04da7216fde9ab66) <br/>
+[Big Bearing](https://cvilleschools.onshape.com/documents/f7ea84346f453cdc483ecf33/w/3f3de681c1975644dbaf9af1/e/955b13e9be52c47d23ce51c9)
 
 ### Image
 
+<img src="Images/Axle&Collar.png" alt="" height="150">
+<img src="Images/.png" alt="" height="150">
 <img src="Images/.png" alt="" height="150">
 
 ### Reflection
