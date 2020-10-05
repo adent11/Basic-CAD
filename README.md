@@ -114,7 +114,7 @@ In this assignment I designed the wheel of the caster. It is revolved I shape wi
 
 ### Reflection
 
-One thing that I learned in this assignment is that when you are doing a fillet or chamfer you can click a face and all of its edges will be selected.
+One thing that I learned in this assignment is that when you are doing a fillet or chamfer you can click a face and all of its edges will be automatically selected.
 
 ---
 
