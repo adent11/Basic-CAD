@@ -133,7 +133,7 @@ One thing that I learned in this assignment is that when you are doing a fillet 
 
 <img src="Images/Axle&Collar.png" alt="" height="150">
 <img src="Images/Bearing.png" alt="" height="150">
-<img src="Images/.png" alt="" height="150">
+<img src="Images/BigBearing.png" alt="" height="150">
 
 ### Reflection
 
