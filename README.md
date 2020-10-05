@@ -81,7 +81,7 @@ One thing that I learned is that you can select tangent propogation when doing a
 
 ### Description
 
-In this assignmentI designed the tire of the caster. It is a trapezoid revolved around the origin to make the wheel, with fillets on both sides to round the edges.
+In this assignment I designed the tire of the caster. It is a trapezoid revolved around the origin to make the wheel, with fillets on both sides to round the edges.
 
 ### Evidence
 
@@ -102,6 +102,8 @@ Something useful that I learned is that if you place a dimension between a cente
 
 ### Description
 
+In this assignment I designed the wheel of the caster. It is revolved I shape with holes cut to make spokes, then some fillets.
+
 ### Evidence
 
 [Wheel in Onshape](https://cvilleschools.onshape.com/documents/f7ea84346f453cdc483ecf33/w/3f3de681c1975644dbaf9af1/e/83922fdb04da7216fde9ab66)
@@ -111,6 +113,8 @@ Something useful that I learned is that if you place a dimension between a cente
 <img src="Images/Wheel.png" alt="" height="150">
 
 ### Reflection
+
+One thing that I learned in this assignment is that when you are doing a fillet or chamfer you can click a face and all of its edges will be selected.
 
 ---
 
