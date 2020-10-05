@@ -123,6 +123,8 @@ One thing that I learned in this assignment is that when you are doing a fillet 
 
 ### Description
 
+In this assignment I made the axe, which is a cylinder with flat cuts on the ends for set screws, a collar that attaches to the end of the axle, and two different sized bearings.
+
 ### Evidence
 
 [Axle and Collar in Onshape](https://cvilleschools.onshape.com/documents/f7ea84346f453cdc483ecf33/w/3f3de681c1975644dbaf9af1/e/20dcd05ba3e4f98628545047) <br/>
@@ -136,5 +138,7 @@ One thing that I learned in this assignment is that when you are doing a fillet 
 <img src="Images/BigBearing.png" alt="" height="150">
 
 ### Reflection
+
+This assignment showed me how easiy it is to use part studios to make multiple parts without even having to make any new sketches.
 
 ---
