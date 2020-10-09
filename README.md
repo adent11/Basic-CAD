@@ -1,9 +1,10 @@
 # Basic CAD
 
-We are creating a caster.
+This is my repository for the introductory Onshape assignments.
 
 ---
 ## Table of Contents
+
 * [Table of Contents](#Table-of-Contents)
 * [Base](#Base)
 * [Mount](#Mount)
@@ -11,6 +12,8 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [Axle, Collar, Bearings](#axle-collar-bearings)
+* [Onshape Fundamentals: Assemblies]()
+* [Dorothy's Dowel Pins]()
 
 ## Base
 
@@ -140,5 +143,36 @@ In this assignment I made the axe, which is a cylinder with flat cuts on the end
 ### Reflection
 
 This assignment showed me how easiy it is to use part studios to make multiple parts without even having to make any new sketches.
+
+---
+
+## Onshape Fundamentals: Assemblies
+
+### Description
+
+In this assignment I did the Onshape learning pathway on assemblies up to the first exercise. It includes each mate type, what type of movement they constrain, and an exercise in which you assemble the pump of a soap bottle.
+
+### Evidence
+
+[Assembly Exercise in Onshape](https://cvilleschools.onshape.com/documents/7c97ee6d0e6d1b0604c9c87b/w/86819eb89e2e7cca162b0530/e/8c25c6499758e71b28fe3cb5)
+
+### Image
+
+### Reflection
+
+---
+
+## Dorothy's Dowel Pins
+
+### Description
+
+### Evidence
+
+[Dorothy's Dowel Pins in Onshape](https://cvilleschools.onshape.com/documents/a549f6b55cfad151cee54942/w/bbdfc69bb529eb9a66bd2783/e/b2602cbe6a9212594f863f8f)
+
+### Image
+
+
+### Reflection
 
 ---
