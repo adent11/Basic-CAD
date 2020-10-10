@@ -158,6 +158,8 @@ In this assignment I did the Onshape learning pathway on assemblies up to the fi
 
 ### Image
 
+<img src="Images/AssemblyExercise.png" alt="" height="150">
+
 ### Reflection
 
 ---
