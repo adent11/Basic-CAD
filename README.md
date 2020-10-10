@@ -160,11 +160,15 @@ In this assignment I did the Onshape learning pathway on assemblies up to the fi
 
 ### Reflection
 
+So far I like how Onshape handles mates, it allows you to use one mate to constrain a peice to exactly the type of motion you want. For example fastened mates contrain all movement, revolute allows for rotation, slider allows it to move across one axis, planar allows movement on two axes, cylindrical allows one axis and rotation, and so on.
+
 ---
 
 ## Dorothy's Dowel Pins
 
 ### Description
+
+In this assignment I designeda dowel pin and used configurations to make 16 versions, then made a frame connected by these pins, and assembled it.
 
 ### Evidence
 
@@ -175,5 +179,7 @@ In this assignment I did the Onshape learning pathway on assemblies up to the fi
 <img src="Images/DowelRod.png" alt="" height="150"> <img src="Images/Frame.png" alt="" height="150"> <img src="Images/FrameAssembly.png" alt="" height="150">
 
 ### Reflection
+
+I really like how configurations work in Onshape. In Solidworks configurations felt clunky, like using an external tool, but in Onshape they feel much more integrated into the normal UI and design process. Also, I don't know if this is possible in Solidworks, but in the assembly it allowed me to copy and paste many parts while remembering the mates between them.
 
 ---
