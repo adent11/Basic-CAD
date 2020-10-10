@@ -136,9 +136,7 @@ In this assignment I made the axe, which is a cylinder with flat cuts on the end
 
 ### Image
 
-<img src="Images/Axle&Collar.png" alt="" height="150">
-<img src="Images/Bearing.png" alt="" height="150">
-<img src="Images/BigBearing.png" alt="" height="150">
+<img src="Images/Axle&Collar.png" alt="" height="150">   <img src="Images/Bearing.png" alt="" height="150">   <img src="Images/BigBearing.png" alt="" height="150">
 
 ### Reflection
 
