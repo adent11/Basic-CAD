@@ -172,6 +172,7 @@ In this assignment I did the Onshape learning pathway on assemblies up to the fi
 
 ### Image
 
+<img src="Images/DowelRod.png" alt="" height="150"> <img src="Images/Frame.png" alt="" height="150"> <img src="Images/FrameAssembly.png" alt="" height="150">
 
 ### Reflection
 
