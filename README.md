@@ -12,8 +12,8 @@ This is my repository for the introductory Onshape assignments.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [Axle, Collar, Bearings](#axle-collar-bearings)
-* [Onshape Fundamentals: Assemblies](Onshape-Fundamentals:-Assemblies)
-* [Dorothy's Dowel Pins](Dorothy's-Dowel-Pins)
+* [Onshape Fundamentals: Assemblies](Onshape-Fundamentals-Assemblies)
+* [Dorothy's Dowel Pins](Dorothys-Dowel-Pins)
 
 ## Base
 
