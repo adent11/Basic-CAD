@@ -158,7 +158,11 @@ In this assingment I assembled the wheel and tire, then added the axle and beari
 
 ### Image
 
+<img src="Images/Sub-Assembly.png" alt="" height="150">
+
 ### Reflection
+
+In this assignment I learned how fastened and revolute mates work; fastened mates constrain all planar and rotational movement, and revolute mates constrain all planar and all but one axis of rotational movement. Also I learned that if you click the play button on a mate it will show in what ways it can move.
 
 ---
 
@@ -174,7 +178,11 @@ In this assignment I took the assembled the base, mount, and fork of the caster,
 
 ### Image
 
+<img src="Images/FinalCasterAssembly.png" alt="" height="150">
+
 ### Reflection
+
+One hiccup I had while doing this assingment was that after it was fully assembled, I accidentally deleted a part, but I clicked "Manage versions and history" and went back to before it was deleted, and reverted to that version. Also I learned that to access standard nuts and bolts you can go to "Insert" then "Standard Content".
 
 ---
 
