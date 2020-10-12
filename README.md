@@ -128,7 +128,7 @@ One thing that I learned in this assignment is that when you are doing a fillet 
 
 ### Description
 
-In this assignment I made the axe, which is a cylinder with flat cuts on the ends for set screws, a collar that attaches to the end of the axle, and two different sized bearings.
+In this assignment I made the axle, which is a cylinder with flat cuts on the ends for set screws, a collar that attaches to the end of the axle, and two different sized bearings.
 
 ### Evidence
 
@@ -148,7 +148,13 @@ This assignment showed me how easiy it is to use part studios to make multiple p
 
 ## Sub-Assembly
 
+### Description
+
+In this assingment I assembled the wheel and tire, then added the axle and bearings on both sides.
+
 ### Evidence
+
+[Sub-Assembly in Onshape](https://cvilleschools.onshape.com/documents/f7ea84346f453cdc483ecf33/w/3f3de681c1975644dbaf9af1/e/30f5d041ffcd135b3e4c331d)
 
 ### Image
 
@@ -158,7 +164,13 @@ This assignment showed me how easiy it is to use part studios to make multiple p
 
 ## Final Caster Assembly
 
+### Description
+
+In this assignment I took the assembled the base, mount, and fork of the caster, then added the sub-assembly from the last assignment. After that I added nuts and bolts from the Onshape library.
+
 ### Evidence
+
+[Final Caster Assembly in Onshape](https://cvilleschools.onshape.com/documents/f7ea84346f453cdc483ecf33/w/3f3de681c1975644dbaf9af1/e/e951ea181c25c0919cbd9b23)
 
 ### Image
 
