@@ -12,6 +12,8 @@ This is my repository for the introductory Onshape assignments.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [Axle, Collar, Bearings](#axle-collar-bearings)
+* [Sub-Assembly](#Sub-Assembly)
+* [Final Caster Assembly](#Final-Caster-Assembly)
 * [Onshape Fundamentals: Assemblies](#Onshape-Fundamentals-Assemblies)
 * [Dorothy's Dowel Pins](#Dorothys-Dowel-Pins)
 
@@ -141,6 +143,26 @@ In this assignment I made the axe, which is a cylinder with flat cuts on the end
 ### Reflection
 
 This assignment showed me how easiy it is to use part studios to make multiple parts without even having to make any new sketches.
+
+---
+
+## Sub-Assembly
+
+### Evidence
+
+### Image
+
+### Reflection
+
+---
+
+## Final Caster Assembly
+
+### Evidence
+
+### Image
+
+### Reflection
 
 ---
 
