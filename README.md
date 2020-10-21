@@ -17,6 +17,8 @@ This is my repository for the introductory Onshape assignments.
 * [Onshape Fundamentals: Assemblies](#Onshape-Fundamentals-Assemblies)
 * [Dorothy's Dowel Pins](#Dorothys-Dowel-Pins)
 
+---
+
 ## Base
 
 ### Description
